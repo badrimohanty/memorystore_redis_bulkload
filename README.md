@@ -4,7 +4,7 @@
 
 ```
 mvn compile exec:java \
-  -Dexec.mainClass=com.viveknaskar.DataFlowPipelineForMemStore \
+  -Dexec.mainClass=com.DataFlowPipelineForMemStore \
   -Dexec.args="--project=your-project-id \
   --jobName=dataflow-memstore-job \
   --inputFile=gs://cloud-dataflow-input-bucket/*.txt \
