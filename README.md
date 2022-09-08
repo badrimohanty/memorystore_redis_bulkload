@@ -1,0 +1,1 @@
+# memorystore_redis_bulkload
